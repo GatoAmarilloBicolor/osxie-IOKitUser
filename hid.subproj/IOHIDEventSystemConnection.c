@@ -4,13 +4,13 @@
 #include <IOKit/hid/IOHIDEventSystemConnectionPrivate.h>
 #include "stub-log.h"
 
-DARLING_STUB_HEADER;
+OSXIE_STUB_HEADER;
 
 CFStringRef IOHIDEventSystemConnectionCopyDescription(IOHIDEventSystemConnectionRef conn) {
-	DARLING_STUB_LOG;
+	OSXIE_STUB_LOG;
 	return CFSTR("");
 };
 
 void _IOHIDEventSystemConnectionReleasePrivate(IOHIDEventSystemConnectionRef conn) {
-	DARLING_STUB_LOG;
+	OSXIE_STUB_LOG;
 };

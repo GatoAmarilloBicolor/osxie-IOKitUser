@@ -37,7 +37,7 @@
 #include <IOKit/hid/AppleHIDUsageTables.h>
 #include <os/assumes.h>
 
-#ifdef DARLING
+#ifdef OSXIE
 // i couldn't find any other place that looks like it should contain this
 uint32_t gIOHIDDebugConfig = 0;
 #endif

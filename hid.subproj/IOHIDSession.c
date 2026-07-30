@@ -4,8 +4,8 @@
 #include <IOKit/hid/IOHIDSessionPrivate.h>
 #include "stub-log.h"
 
-DARLING_STUB_HEADER;
+OSXIE_STUB_HEADER;
 
 void _IOHIDSessionReleasePrivate(IOHIDSessionRef session) {
-	DARLING_STUB_LOG;
+	OSXIE_STUB_LOG;
 };

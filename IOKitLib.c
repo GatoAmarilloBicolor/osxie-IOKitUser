@@ -31,7 +31,7 @@
 #include <mach/mach.h>
 #include <mach/mach_port.h>
 
-#if TARGET_OS_SIMULATOR || defined(DARLING)
+#if TARGET_OS_SIMULATOR || defined(OSXIE)
 #include <servers/bootstrap.h>
 #endif
 
@@ -159,10 +159,10 @@ IOMasterPort( mach_port_t bootstrapPort __unused, mach_port_t * masterPort )
         return bootstrap_look_up(bootstrapPort, "com.apple.iokitsimd", masterPort);
     }
 #endif
-#ifdef DARLING
+#ifdef OSXIE
     if (bootstrapPort == MACH_PORT_NULL)
         bootstrapPort = bootstrap_port;
-    return bootstrap_look_up(bootstrapPort, "org.darlinghq.iokitd", masterPort);
+    return bootstrap_look_up(bootstrapPort, "org.osxiehq.iokitd", masterPort);
 #endif
 
     host_port = mach_host_self();
@@ -2005,7 +2005,7 @@ IOConnectCallAsyncScalarMethod(
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 // we don't need these traps
-#ifndef DARLING
+#ifndef OSXIE
 kern_return_t
 IOConnectTrap0(io_connect_t	connect,
 	       uint32_t		index)
@@ -2075,7 +2075,7 @@ IOConnectTrap6(io_connect_t	connect,
 {
     return iokit_user_client_trap(connect, index, p1, p2, p3, p4, p5, p6);
 }
-#endif // !DARLING
+#endif // !OSXIE
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 

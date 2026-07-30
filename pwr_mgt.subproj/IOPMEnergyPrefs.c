@@ -1415,7 +1415,7 @@ void IOPMRemoveIrrelevantProperties(CFMutableDictionaryRef energyPrefs)
                         !IOPMFeatureIsAvailableWithSupportedTable( CFSTR(kIOPMSleepServicesKey),
                             (CFStringRef)profile_keys[profile_count], _supportedCached))
                          && !supportsNewPNKey
-#ifdef DARLING
+#ifdef OSXIE
                       ))
 #else
                       )
