@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 
 #include <IOKit/hid/IOHIDSession.h>
 #include <IOKit/hid/IOHIDSessionPrivate.h>

@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 //
 // original file from Apple's IOKitUser was just empty
 // guess they got some stuff in here they don't want others knowing about ¯\_(ツ)_/¯

@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 
 #include <IOKit/hid/IOHIDService.h>
 #include <IOKit/hid/IOHIDServicePrivate.h>

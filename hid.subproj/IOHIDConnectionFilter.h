@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 //
 // same deal as with `IOHIDEvent.h`
 

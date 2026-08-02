@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 
 #include <IOKit/hid/IOHIDEventSystemConnection.h>
 #include <IOKit/hid/IOHIDEventSystemConnectionPrivate.h>

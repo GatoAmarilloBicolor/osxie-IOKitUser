@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 
 #ifndef _IOKIT_APPLE80211_APPLE80211_VAR_H
 #define _IOKIT_APPLE80211_APPLE80211_VAR_H

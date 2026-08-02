@@ -1,4 +1,4 @@
-// created for Darling
+// created for Osxie
 
 #ifndef _OSXIE_IOKIT_HID_STUB_LOG_H
 #define _OSXIE_IOKIT_HID_STUB_LOG_H
