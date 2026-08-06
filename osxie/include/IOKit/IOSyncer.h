@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOSyncer.h
+../../../iokit/IOKit/IOSyncer.h

@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/perfcontrol/Makefile
+../../../../iokit/IOKit/perfcontrol/Makefile

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOStatistics.h
+../../../iokit/IOKit/IOStatistics.h

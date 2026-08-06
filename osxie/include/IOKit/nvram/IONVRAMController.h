@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/nvram/IONVRAMController.h
+../../../../iokit/IOKit/nvram/IONVRAMController.h

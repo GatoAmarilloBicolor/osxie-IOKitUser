@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/system_management/IOWatchDogTimer.h
+../../../../iokit/IOKit/system_management/IOWatchDogTimer.h

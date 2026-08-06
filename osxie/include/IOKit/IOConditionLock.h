@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOConditionLock.h
+../../../iokit/IOKit/IOConditionLock.h

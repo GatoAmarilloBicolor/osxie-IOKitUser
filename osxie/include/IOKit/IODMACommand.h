@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IODMACommand.h
+../../../iokit/IOKit/IODMACommand.h

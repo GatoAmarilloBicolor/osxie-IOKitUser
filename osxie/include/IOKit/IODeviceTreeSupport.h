@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IODeviceTreeSupport.h
+../../../iokit/IOKit/IODeviceTreeSupport.h

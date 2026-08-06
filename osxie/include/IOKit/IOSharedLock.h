@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOSharedLock.h
+../../../iokit/IOKit/IOSharedLock.h

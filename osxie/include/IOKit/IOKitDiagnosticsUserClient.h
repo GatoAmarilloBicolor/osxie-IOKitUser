@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOKitDiagnosticsUserClient.h
+../../../iokit/IOKit/IOKitDiagnosticsUserClient.h

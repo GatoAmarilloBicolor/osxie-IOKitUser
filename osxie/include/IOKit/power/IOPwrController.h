@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/power/IOPwrController.h
+../../../../iokit/IOKit/power/IOPwrController.h

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IORegistryEntry.h
+../../../iokit/IOKit/IORegistryEntry.h

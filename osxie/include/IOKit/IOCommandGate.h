@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOCommandGate.h
+../../../iokit/IOKit/IOCommandGate.h

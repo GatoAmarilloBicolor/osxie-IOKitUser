@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/platform/AppleNMI.h
+../../../../iokit/IOKit/platform/AppleNMI.h

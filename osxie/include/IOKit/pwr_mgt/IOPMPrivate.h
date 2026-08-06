@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/pwr_mgt/IOPMPrivate.h
+../../../../iokit/IOKit/pwr_mgt/IOPMPrivate.h

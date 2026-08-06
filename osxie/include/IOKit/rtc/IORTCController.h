@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/rtc/IORTCController.h
+../../../../iokit/IOKit/rtc/IORTCController.h

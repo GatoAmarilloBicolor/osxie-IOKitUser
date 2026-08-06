@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOInterruptAccountingPrivate.h
+../../../iokit/IOKit/IOInterruptAccountingPrivate.h

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOLocksPrivate.h
+../../../iokit/IOKit/IOLocksPrivate.h

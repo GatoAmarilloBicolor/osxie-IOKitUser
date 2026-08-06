@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOHibernatePrivate.h
+../../../iokit/IOKit/IOHibernatePrivate.h

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOMessage.h
+../../../iokit/IOKit/IOMessage.h

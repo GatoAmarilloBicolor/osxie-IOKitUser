@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IODMAEventSource.h
+../../../iokit/IOKit/IODMAEventSource.h

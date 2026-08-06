@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOFilterInterruptEventSource.h
+../../../iokit/IOKit/IOFilterInterruptEventSource.h

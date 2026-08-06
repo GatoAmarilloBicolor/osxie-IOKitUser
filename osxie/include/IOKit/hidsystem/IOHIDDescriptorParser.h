@@ -80,7 +80,7 @@ extern "C" {
     
 #if __has_include(<MacErrors.h>)
     #include <MacErrors.h>
-#elif defined(DARLING) && __has_include(<CarbonCore/MacErrors.h>)
+#elif (defined(DARLING) || defined(OSXIE)) && __has_include(<CarbonCore/MacErrors.h>)
 	#include <CarbonCore/MacErrors.h>
 #elif __has_include(<CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>)
     #include <CoreServices/../Frameworks/CarbonCore.framework/Headers/MacErrors.h>

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOTypes.h
+../../../iokit/IOKit/IOTypes.h

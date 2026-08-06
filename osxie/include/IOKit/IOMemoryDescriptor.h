@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOMemoryDescriptor.h
+../../../iokit/IOKit/IOMemoryDescriptor.h

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOTimeStamp.h
+../../../iokit/IOKit/IOTimeStamp.h

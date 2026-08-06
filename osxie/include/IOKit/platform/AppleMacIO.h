@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/platform/AppleMacIO.h
+../../../../iokit/IOKit/platform/AppleMacIO.h

@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOCommandQueue.h
+../../../iokit/IOKit/IOCommandQueue.h

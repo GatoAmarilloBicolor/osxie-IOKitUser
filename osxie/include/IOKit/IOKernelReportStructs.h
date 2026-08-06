@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOKernelReportStructs.h
+../../../iokit/IOKit/IOKernelReportStructs.h

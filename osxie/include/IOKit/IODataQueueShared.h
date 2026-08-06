@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IODataQueueShared.h
+../../../iokit/IOKit/IODataQueueShared.h

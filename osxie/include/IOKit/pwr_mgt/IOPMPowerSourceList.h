@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/pwr_mgt/IOPMPowerSourceList.h
+../../../../iokit/IOKit/pwr_mgt/IOPMPowerSourceList.h

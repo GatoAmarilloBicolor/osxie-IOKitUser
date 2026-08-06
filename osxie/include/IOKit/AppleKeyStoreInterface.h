@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/AppleKeyStoreInterface.h
+../../../iokit/IOKit/AppleKeyStoreInterface.h

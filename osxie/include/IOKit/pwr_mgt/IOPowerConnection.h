@@ -1,1 +1,1 @@
-../../../../darling/submodules/xnu/iokit/IOKit/pwr_mgt/IOPowerConnection.h
+../../../../iokit/IOKit/pwr_mgt/IOPowerConnection.h

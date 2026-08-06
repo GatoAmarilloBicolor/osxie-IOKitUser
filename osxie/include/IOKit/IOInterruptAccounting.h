@@ -1,1 +1,1 @@
-../../../darling/submodules/xnu/iokit/IOKit/IOInterruptAccounting.h
+../../../iokit/IOKit/IOInterruptAccounting.h
