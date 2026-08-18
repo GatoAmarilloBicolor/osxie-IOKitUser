@@ -110,6 +110,7 @@ gIOKitLibSerializeOptions = kIOCFSerializeToBinary;
 
 extern 	mach_port_t 	mach_task_self();
 const 	mach_port_t 	kIOMasterPortDefault = MACH_PORT_NULL;
+const 	mach_port_t 	kIOMainPortDefault = MACH_PORT_NULL;
 
 static mach_port_t
 __IOGetDefaultMasterPort()
@@ -162,7 +163,7 @@ IOMasterPort( mach_port_t bootstrapPort __unused, mach_port_t * masterPort )
 #ifdef OSXIE
     if (bootstrapPort == MACH_PORT_NULL)
         bootstrapPort = bootstrap_port;
-    return bootstrap_look_up(bootstrapPort, "org.osxiehq.iokitd", masterPort);
+    return bootstrap_look_up(bootstrapPort, "org.darlinghq.iokitd", masterPort);
 #endif
 
     host_port = mach_host_self();

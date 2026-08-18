@@ -102,6 +102,14 @@ typedef void
 extern
 const mach_port_t kIOMasterPortDefault;
 
+/*! @const kIOMainPortDefault
+    @abstract The default mach port used to initiate communication with IOKit.
+    @discussion When specifying a master port to IOKit functions, the NULL argument indicates "use the default". This is a synonym for NULL, if you'd rather use a named constant. (macOS 11+ spelling; same value as kIOMasterPortDefault.)
+*/
+
+extern
+const mach_port_t kIOMainPortDefault;
+
 /*! @function IOMasterPort
     @abstract Returns the mach port used to initiate communication with IOKit.
     @discussion Functions that don't specify an existing object require the IOKit master port to be passed. This function obtains that port.
